@@ -49,3 +49,10 @@ En nuestro caso intentamos con 2 cuentas diferentes y fuimos rechazados por “P
 Continuamos con la apelación de la misma y realizamos modificaciones en las respectivas páginas web en donde incorporamos las mencionadas políticas de privacidad en cuestión.  Al momento no hemos tenido respuesta satisfactoria despues de más de 3 semanas.
 Por esto hemos decidido intentar realizar scraping sobre la página sin utilizar las API.
 
+## Intalación de librerias a utilizar 
+#%pip install selenium
+#%pip install webdriver-manager
+#%pip install GeckoDriver
+#%pip install --upgrade selenium webdriver-manager
+
+
